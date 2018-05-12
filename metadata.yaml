@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6658'
     url: http://www.gutenberg.org/2009/agents/6658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44085#PsychoanalysisSleep-and-Dreams
 gutenberg_issued: '2013-11-01'
 gutenberg_type: Text
 identifiers:
